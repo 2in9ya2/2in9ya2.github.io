@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://2in9ya2/life/index.html</loc>
+    <loc>https://2in9ya2.github.io/life/index.html</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20200612-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20200612-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20200731-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20200731-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20200804-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20200804-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20200821-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20200821-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20240405-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20240405-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20240409-Malware/</loc>
+    <loc>https://2in9ya2.github.io/20240409-Malware/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/20240414-Traffic/</loc>
+    <loc>https://2in9ya2.github.io/20240414-Traffic/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/first/</loc>
+    <loc>https://2in9ya2.github.io/first/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2/about/index.html</loc>
+    <loc>https://2in9ya2.github.io/about/index.html</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -93,7 +93,7 @@
   
 
   <url>
-    <loc>https://2in9ya2/</loc>
+    <loc>https://2in9ya2.github.io/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -101,21 +101,21 @@
 
   
   <url>
-    <loc>https://2in9ya2/tags/traffic/</loc>
+    <loc>https://2in9ya2.github.io/tags/traffic/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://2in9ya2/tags/malware/</loc>
+    <loc>https://2in9ya2.github.io/tags/malware/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://2in9ya2/tags/ctf/</loc>
+    <loc>https://2in9ya2.github.io/tags/ctf/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -124,21 +124,21 @@
 
   
   <url>
-    <loc>https://2in9ya2/categories/malware-traffic/</loc>
+    <loc>https://2in9ya2.github.io/categories/malware-traffic/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://2in9ya2/categories/traffic-analysis/</loc>
+    <loc>https://2in9ya2.github.io/categories/traffic-analysis/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://2in9ya2/categories/explanation/</loc>
+    <loc>https://2in9ya2.github.io/categories/explanation/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
