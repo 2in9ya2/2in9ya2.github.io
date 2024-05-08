@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2.github.io/Post-exploitation-attack-privilege-escalation/</loc>
-    
-    <lastmod>2024-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/first/</loc>
-    
-    <lastmod>2024-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/about/index.html</loc>
-    
-    <lastmod>2024-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://2in9ya2.github.io/20200612-Malware/</loc>
     
     <lastmod>2024-05-08</lastmod>
@@ -66,6 +39,15 @@
   
   <url>
     <loc>https://2in9ya2.github.io/20200821-Malware/</loc>
+    
+    <lastmod>2024-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/202303-Malware/</loc>
     
     <lastmod>2024-05-08</lastmod>
     
@@ -129,6 +111,33 @@
   
   <url>
     <loc>https://2in9ya2.github.io/Post-exploitation-attack-information-gathering/</loc>
+    
+    <lastmod>2024-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/Post-exploitation-attack-privilege-escalation/</loc>
+    
+    <lastmod>2024-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/first/</loc>
+    
+    <lastmod>2024-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/about/index.html</loc>
     
     <lastmod>2024-05-08</lastmod>
     
