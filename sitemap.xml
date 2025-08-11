@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2.github.io/first/</loc>
-    
-    <lastmod>2025-08-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/how-to-use-htb/</loc>
-    
-    <lastmod>2025-08-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/about/index.html</loc>
-    
-    <lastmod>2025-08-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://2in9ya2.github.io/20200612-Malware/</loc>
     
     <lastmod>2025-08-11</lastmod>
@@ -128,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://2in9ya2.github.io/OSINT/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://2in9ya2.github.io/Post-exploitation-attack-information-gathering/</loc>
     
     <lastmod>2025-08-11</lastmod>
@@ -146,7 +128,25 @@
   </url>
   
   <url>
-    <loc>https://2in9ya2.github.io/OSINT/</loc>
+    <loc>https://2in9ya2.github.io/first/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/how-to-use-htb/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/about/index.html</loc>
     
     <lastmod>2025-08-11</lastmod>
     
