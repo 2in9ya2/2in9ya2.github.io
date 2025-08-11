@@ -4,124 +4,7 @@
   <url>
     <loc>https://2in9ya2.github.io/life/index.html</loc>
     
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/20200821-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/202303-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/202307-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/20240405-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/20240409-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/20240414-Traffic/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/20240415-Malware/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/OSINT/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/Post-exploitation-attack-information-gathering/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/Post-exploitation-attack-privilege-escalation/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/first/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/how-to-use-htb/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2in9ya2.github.io/about/index.html</loc>
-    
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +13,7 @@
   <url>
     <loc>https://2in9ya2.github.io/20200612-Malware/</loc>
     
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +22,7 @@
   <url>
     <loc>https://2in9ya2.github.io/20200731-Malware/</loc>
     
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +31,124 @@
   <url>
     <loc>https://2in9ya2.github.io/20200804-Malware/</loc>
     
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/20200821-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/202303-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/202307-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/20240405-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/20240409-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/20240414-Traffic/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/20240415-Malware/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/OSINT/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/Post-exploitation-attack-information-gathering/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/Post-exploitation-attack-privilege-escalation/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/first/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/how-to-use-htb/</loc>
+    
+    <lastmod>2025-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2in9ya2.github.io/about/index.html</loc>
+    
+    <lastmod>2025-08-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +157,7 @@
 
   <url>
     <loc>https://2in9ya2.github.io/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,35 +165,35 @@
   
   <url>
     <loc>https://2in9ya2.github.io/tags/traffic/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/tags/malware/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/tags/ctf/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/tags/study/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/tags/penetration-test/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -202,28 +202,28 @@
   
   <url>
     <loc>https://2in9ya2.github.io/categories/malware-traffic/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/categories/traffic-analysis/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/categories/penetration-test/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2in9ya2.github.io/categories/explanation/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
